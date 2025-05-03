@@ -120,13 +120,13 @@ async def next_page(bot, query):
             for file in files
         ]
 
-        #btn.insert(0, 
+        btn.insert(0, 
             [
-                InlineKeyboardButton('ǫᴜᴀʟɪᴛʏ', callback_data=f"qualities#{key}"),
-                InlineKeyboardButton("ᴇᴘɪsᴏᴅᴇs", callback_data=f"episodes#{key}"),
-                InlineKeyboardButton("sᴇᴀsᴏɴs",  callback_data=f"seasons#{key}")
+                InlineKeyboardButton('Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez"),
+                InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
-        )#
+        )
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
@@ -134,13 +134,13 @@ async def next_page(bot, query):
         ])
     else:
         btn = []
-        #btn.insert(0, 
+        btn.insert(0, 
             [
-                InlineKeyboardButton('ǫᴜᴀʟɪᴛʏ', callback_data=f"qualities#{key}"),
-                InlineKeyboardButton("ᴇᴘɪsᴏᴅᴇs", callback_data=f"episodes#{key}"),
-                InlineKeyboardButton("sᴇᴀsᴏɴs",  callback_data=f"seasons#{key}")
+                InlineKeyboardButton('Gᴀɴᴅɪᴄʜᴇᴇᴢ', callback_data=f"https://t.me/gandicheez"),
+                InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", callback_data=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton("Hᴇɴᴛᴀɪ",  callback_data=f"https://t.me/+goqkqMMqob44YzBl")
             ]
-        )#
+        )
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
@@ -357,13 +357,13 @@ async def filter_yearss_cb_handler(client: Client, query: CallbackQuery):
             ]
             for file in files
         ]
-        #btn.insert(0, 
+        btn.insert(0, 
             [
-                InlineKeyboardButton(f'ǫᴜᴀʟɪᴛʏ', callback_data=f"qualities#{key}"),
-                InlineKeyboardButton("ᴇᴘɪsᴏᴅᴇs", callback_data=f"episodes#{key}"),
-                InlineKeyboardButton("sᴇᴀsᴏɴs",  callback_data=f"seasons#{key}")
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez"),
+                InlineKeyboardButton(f"AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton(f"Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
-        )#
+        )
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
@@ -371,13 +371,13 @@ async def filter_yearss_cb_handler(client: Client, query: CallbackQuery):
         ])
     else:
         btn = []
-        #btn.insert(0, 
+        btn.insert(0, 
             [
-                InlineKeyboardButton(f'ǫᴜᴀʟɪᴛʏ', callback_data=f"qualities#{key}"),
-                InlineKeyboardButton("ᴇᴘɪsᴏᴅᴇs", callback_data=f"episodes#{key}"),
-                InlineKeyboardButton("sᴇᴀsᴏɴs",  callback_data=f"seasons#{key}")
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez"),
+                InlineKeyboardButton(f"AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton(f"Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
-        )#
+        )
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
@@ -523,13 +523,13 @@ async def filter_episodes_cb_handler(client: Client, query: CallbackQuery):
             ]
             for file in files
         ]
-        #btn.insert(0, 
+        btn.insert(0, 
             [
-                InlineKeyboardButton(f'ǫᴜᴀʟɪᴛʏ', callback_data=f"qualities#{key}"),
-                InlineKeyboardButton("ᴇᴘɪsᴏᴅᴇs", callback_data=f"episodes#{key}"),
-                InlineKeyboardButton("sᴇᴀsᴏɴs",  callback_data=f"seasons#{key}")
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez"),
+                InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
-        )#
+        )
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
@@ -537,13 +537,13 @@ async def filter_episodes_cb_handler(client: Client, query: CallbackQuery):
         ])
     else:
         btn = []
-        #btn.insert(0, 
+        btn.insert(0, 
             [
-                InlineKeyboardButton(f'ǫᴜᴀʟɪᴛʏ', callback_data=f"qualities#{key}"),
-                InlineKeyboardButton("ᴇᴘɪsᴏᴅᴇs", callback_data=f"episodes#{key}"),
-                InlineKeyboardButton("sᴇᴀsᴏɴs",  callback_data=f"seasons#{key}")
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez"),
+                InlineKeyboardButton(f"AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton(f"Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
-        )#
+        )
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
@@ -691,13 +691,13 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
             ]
             for file in files
         ]
-        #btn.insert(0, 
+        btn.insert(0, 
             [
-                InlineKeyboardButton(f'ǫᴜᴀʟɪᴛʏ', callback_data=f"qualities#{key}"),
-                InlineKeyboardButton("ᴇᴘɪsᴏᴅᴇs", callback_data=f"episodes#{key}"),
-                InlineKeyboardButton("sᴇᴀsᴏɴs",  callback_data=f"seasons#{key}")
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez"),
+                InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
-        )#
+        )
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
@@ -705,13 +705,13 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
         ])
     else:
         btn = []
-        #btn.insert(0, 
+        btn.insert(0, 
             [
-                InlineKeyboardButton(f'ǫᴜᴀʟɪᴛʏ', callback_data=f"qualities#{key}"),
-                InlineKeyboardButton("ᴇᴘɪsᴏᴅᴇs", callback_data=f"episodes#{key}"),
-                InlineKeyboardButton("sᴇᴀsᴏɴs",  callback_data=f"seasons#{key}")
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez"),
+                InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
-        )#
+        )
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
@@ -888,11 +888,11 @@ async def filter_seasons_cb_handler(client: Client, query: CallbackQuery):
             ]
             for file in files
         ]
-        #btn.insert(0, 
+        btn.insert(0, 
             [
-                InlineKeyboardButton(f'ǫᴜᴀʟɪᴛʏ', callback_data=f"qualities#{key}"),
-                InlineKeyboardButton("ᴇᴘɪsᴏᴅᴇs", callback_data=f"episodes#{key}"),
-                InlineKeyboardButton("sᴇᴀsᴏɴs",  callback_data=f"seasons#{key}")
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez"),
+                InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
         )#
         btn.insert(0, [
@@ -902,11 +902,11 @@ async def filter_seasons_cb_handler(client: Client, query: CallbackQuery):
         ])
     else:
         btn = []
-        #btn.insert(0, 
+        btn.insert(0, 
             [
-                InlineKeyboardButton(f'ǫᴜᴀʟɪᴛʏ', callback_data=f"qualities#{key}"),
-                InlineKeyboardButton("ᴇᴘɪsᴏᴅᴇs", callback_data=f"episodes#{key}"),
-                InlineKeyboardButton("sᴇᴀsᴏɴs",  callback_data=f"seasons#{key}")
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez"),
+                InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
         )#
         btn.insert(0, [
@@ -1026,13 +1026,13 @@ async def filter_qualities_cb_handler(client: Client, query: CallbackQuery):
             ]
             for file in files
         ]
-        #btn.insert(0, 
+        btn.insert(0, 
             [
-                InlineKeyboardButton(f'ǫᴜᴀʟɪᴛʏ', callback_data=f"qualities#{key}"),
-                InlineKeyboardButton("ᴇᴘɪsᴏᴅᴇs", callback_data=f"episodes#{key}"),
-                InlineKeyboardButton("sᴇᴀsᴏɴs",  callback_data=f"seasons#{key}")
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez"),
+                InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
-        )#
+        )
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
@@ -1040,13 +1040,13 @@ async def filter_qualities_cb_handler(client: Client, query: CallbackQuery):
         ])
     else:
         btn = []
-        #btn.insert(0, 
+        btn.insert(0, 
             [
-                InlineKeyboardButton(f'ǫᴜᴀʟɪᴛʏ', callback_data=f"qualities#{key}"),
-                InlineKeyboardButton("ᴇᴘɪsᴏᴅᴇs", callback_data=f"episodes#{key}"),
-                InlineKeyboardButton("sᴇᴀsᴏɴs",  callback_data=f"seasons#{key}")
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez"),
+                InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
-        )#
+        )
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
@@ -2604,13 +2604,13 @@ async def auto_filter(client, name, msg, reply_msg, ai_search, spoll=False):
             ]
             for file in files
         ]
-        #btn.insert(0, 
+        btn.insert(0, 
             [
-                InlineKeyboardButton(f'ǫᴜᴀʟɪᴛʏ', callback_data=f"qualities#{key}"),
-                InlineKeyboardButton("ᴇᴘɪsᴏᴅᴇs", callback_data=f"episodes#{key}"),
-                InlineKeyboardButton("sᴇᴀsᴏɴs",  callback_data=f"seasons#{key}")
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez"),
+                InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
-        )#
+        )
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
@@ -2618,13 +2618,13 @@ async def auto_filter(client, name, msg, reply_msg, ai_search, spoll=False):
         ])
     else:
         btn = []
-        #btn.insert(0, 
+        btn.insert(0, 
             [
-                InlineKeyboardButton(f'ǫᴜᴀʟɪᴛʏ', callback_data=f"qualities#{key}"),
-                InlineKeyboardButton("ᴇᴘɪsᴏᴅᴇs", callback_data=f"episodes#{key}"),
-                InlineKeyboardButton("sᴇᴀsᴏɴs",  callback_data=f"seasons#{key}")
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez"),
+                InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
-        )#
+        )
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
