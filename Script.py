@@ -75,7 +75,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/cineoriginals)</code>
+<code>[Button Text](buttonurl:https://t.me/AkMoviesHubBackup)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -240,7 +240,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b><a href="https://t.me/AkMoviesHubBackup">{file_name}</a>\n\n ⚜️ 𝖩𝗈𝗂𝗇 ➥ 「<a href="https://t.me/cineoriginals"> 𝘾𝙄𝙉𝙀𝙊𝙍𝙄𝙂𝙄𝙉𝘼𝙇𝙎</a>」</b>
+    CAPTION = """<b><a href="https://t.me/AkMoviesHubBackup">{file_name}</a>\n\n ⚜️ 𝖩𝗈𝗂𝗇 ➥ 「<a href="https://t.me/AkMoviesHubBackup"> 𝑨𝒌𝑴𝒐𝒗𝒊𝒆𝒔𝑯𝒖𝒃𝑩𝒂𝒄𝒌𝒖𝒑</a>」</b>
 <b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
 
     IMDB_TEMPLATE_TXT = """
