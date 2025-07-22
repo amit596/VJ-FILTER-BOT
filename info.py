@@ -113,15 +113,15 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 # Token Verification Info :
 VERIFY = bool(environ.get('VERIFY', False))
-VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'linkshortify.com')
-VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', 'c1388492d1c69d38d15a0755f49592ff4b174ac4')
-VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/how_to_open_link_ak/18')
+VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'nanolinks.in')
+VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', '7dead26f3e7a90d19bb45e92ab57b078f24ebfbf')
+VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/how_to_open_link_ak/20')
 
 # If You Fill Second Shortner Then Bot Attach Both First And Second Shortner And Use It For Verify.
 VERIFY_SECOND_SHORTNER = bool(environ.get('VERIFY_SECOND_SHORTNER', False))
 # if verify second shortner is True then fill below url and api
-VERIFY_SND_SHORTLINK_URL = environ.get('VERIFY_SND_SHORTLINK_URL', 'linkshortify.com')
-VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', 'c1388492d1c69d38d15a0755f49592ff4b174ac4')
+VERIFY_SND_SHORTLINK_URL = environ.get('VERIFY_SND_SHORTLINK_URL', 'nanolinks.in')
+VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', '7dead26f3e7a90d19bb45e92ab57b078f24ebfbf')
 
 
 # Shortlink Info
