@@ -126,9 +126,9 @@ VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', 'c1388492d1c6
 
 # Shortlink Info
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True)) # Set True Or False
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'linkshortify.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'c1388492d1c69d38d15a0755f49592ff4b174ac4')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/how_to_open_link_ak/18') # How Open Shortner Link Video Link , Channel Link Where You Upload Your Video.
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'nanolinks.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', '7dead26f3e7a90d19bb45e92ab57b078f24ebfbf')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/how_to_open_link_ak/20') # How Open Shortner Link Video Link , Channel Link Where You Upload Your Video.
 
 
 # Others
