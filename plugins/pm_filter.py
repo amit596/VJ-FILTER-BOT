@@ -122,7 +122,7 @@ async def next_page(bot, query):
 
         btn.insert(0, 
             [
-                InlineKeyboardButton('Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez1"),
+                InlineKeyboardButton('Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/BerozgarYuva1"),
                 InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -136,7 +136,7 @@ async def next_page(bot, query):
         btn = []
         btn.insert(0, 
             [
-                InlineKeyboardButton('Gᴀɴᴅɪᴄʜᴇᴇᴢ', callback_data=f"https://t.me/gandicheez1"),
+                InlineKeyboardButton('Gᴀɴᴅɪᴄʜᴇᴇᴢ', callback_data=f"https://t.me/BerozgarYuva1"),
                 InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", callback_data=f"https://t.me/akmovieshubbackup"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  callback_data=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -359,7 +359,7 @@ async def filter_yearss_cb_handler(client: Client, query: CallbackQuery):
         ]
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez1"),
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/BerozgarYuva1"),
                 InlineKeyboardButton(f"AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
                 InlineKeyboardButton(f"Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -373,7 +373,7 @@ async def filter_yearss_cb_handler(client: Client, query: CallbackQuery):
         btn = []
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez1"),
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/BerozgarYuva1"),
                 InlineKeyboardButton(f"AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
                 InlineKeyboardButton(f"Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -525,7 +525,7 @@ async def filter_episodes_cb_handler(client: Client, query: CallbackQuery):
         ]
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez1"),
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/BerozgarYuva1"),
                 InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -539,7 +539,7 @@ async def filter_episodes_cb_handler(client: Client, query: CallbackQuery):
         btn = []
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez1"),
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/BerozgarYuva1"),
                 InlineKeyboardButton(f"AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
                 InlineKeyboardButton(f"Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -693,7 +693,7 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
         ]
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez1"),
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/BerozgarYuva1"),
                 InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -707,7 +707,7 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
         btn = []
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez1"),
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/BerozgarYuva1"),
                 InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -890,7 +890,7 @@ async def filter_seasons_cb_handler(client: Client, query: CallbackQuery):
         ]
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez1"),
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/BerozgarYuva1"),
                 InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -904,7 +904,7 @@ async def filter_seasons_cb_handler(client: Client, query: CallbackQuery):
         btn = []
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez1"),
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/BerozgarYuva1"),
                 InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -1028,7 +1028,7 @@ async def filter_qualities_cb_handler(client: Client, query: CallbackQuery):
         ]
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez1"),
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/BerozgarYuva1"),
                 InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -1042,7 +1042,7 @@ async def filter_qualities_cb_handler(client: Client, query: CallbackQuery):
         btn = []
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez1"),
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/BerozgarYuva1"),
                 InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -2220,7 +2220,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "tele":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="help"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/The_SonGoku")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/nullzoro")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -2261,7 +2261,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "share":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="help"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/The_SonGoku")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/nullzoro")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -2277,7 +2277,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "song":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="help"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/The_SonGoku")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/nullzoro")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -2318,7 +2318,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "sticker":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="help"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/The_SonGoku")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/nullzoro")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -2334,7 +2334,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "tamil_info":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/The_SonGoku")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/nullzoro")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -2350,7 +2350,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "english_info":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/The_SonGoku")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/nullzoro")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -2366,7 +2366,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "hindi_info":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/The_SonGoku")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/nullzoro")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -2382,7 +2382,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "telugu_info":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/The_SonGoku")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/nullzoro")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -2398,7 +2398,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "malayalam_info":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/The_SonGoku")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/nullzoro")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -2414,7 +2414,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "urdu_info":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/The_SonGoku")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/nullzoro")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -2430,7 +2430,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "bangladesh_info":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/The_SonGoku")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/nullzoro")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -2446,7 +2446,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "kannada_info":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/The_SonGoku")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/nullzoro")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -2462,7 +2462,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "gujarati_info":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/The_SonGoku")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/nullzoro")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -2606,7 +2606,7 @@ async def auto_filter(client, name, msg, reply_msg, ai_search, spoll=False):
         ]
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez"),
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/BerozgarYuva1"),
                 InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -2620,7 +2620,7 @@ async def auto_filter(client, name, msg, reply_msg, ai_search, spoll=False):
         btn = []
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez"),
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/BerozgarYuva1"),
                 InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -3286,3 +3286,4 @@ async def global_filters(client, message, text=False):
                 break
     else:
         return False
+
