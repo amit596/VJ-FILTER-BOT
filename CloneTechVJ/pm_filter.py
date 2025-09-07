@@ -80,7 +80,7 @@ async def next_page(bot, query):
 
     btn.insert(0, 
         [
-            InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez"),
+            InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/+cPU1noVvMthhOTg9"),
             InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
             InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
         ]
@@ -229,7 +229,7 @@ async def filter_yearss_cb_handler(client: Client, query: CallbackQuery):
     ]
     btn.insert(0, 
         [
-            InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez"),
+            InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/+cPU1noVvMthhOTg9"),
             InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
             InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
         ]
@@ -341,7 +341,7 @@ async def filter_episodes_cb_handler(client: Client, query: CallbackQuery):
     ]
     btn.insert(0, 
         [
-            InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez"),
+            InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/+cPU1noVvMthhOTg9"),
             InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
             InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
         ]
@@ -455,7 +455,7 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
     ]
     btn.insert(0, 
         [
-            InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez"),
+            InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/+cPU1noVvMthhOTg9"),
             InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
             InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
         ]
@@ -596,7 +596,7 @@ async def filter_seasons_cb_handler(client: Client, query: CallbackQuery):
     ]
     btn.insert(0, 
         [
-            InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez"),
+            InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/+cPU1noVvMthhOTg9"),
             InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
             InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
         ]
@@ -704,7 +704,7 @@ async def filter_qualities_cb_handler(client: Client, query: CallbackQuery):
     ] 
     btn.insert(0, 
         [
-            InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/gandicheez"),
+            InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/+cPU1noVvMthhOTg9"),
             InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
             InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
         ]
@@ -898,7 +898,7 @@ async def auto_filter(client, name, msg, reply_msg, ai_search, spoll=False):
     ]
     btn.insert(0, 
         [
-            InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/akmovieshubbackup"),
+            InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/+cPU1noVvMthhOTg9"),
             InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/gandicheez"),
             InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
         ]
@@ -1056,3 +1056,4 @@ async def advantage_spell_chok(client, name, msg, reply_msg, vj_search):
         )
         await asyncio.sleep(600)
         await spell_check_del.delete()
+
