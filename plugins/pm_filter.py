@@ -122,8 +122,8 @@ async def next_page(bot, query):
 
         btn.insert(0, 
             [
-                InlineKeyboardButton('Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/BerozgarYuva1"),
-                InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton('AdultPlayX', url=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton("AᴋMᴏᴠɪᴇverse", url=f"https://t.me/AkMovieVerse"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
         )
@@ -136,8 +136,8 @@ async def next_page(bot, query):
         btn = []
         btn.insert(0, 
             [
-                InlineKeyboardButton('Gᴀɴᴅɪᴄʜᴇᴇᴢ', callback_data=f"https://t.me/BerozgarYuva1"),
-                InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", callback_data=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton('AdultPlayX', callback_data=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton("AᴋMᴏᴠɪᴇverse", callback_data=f"https://t.me/akmovieverse"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  callback_data=f"https://t.me/+goqkqMMqob44YzBl")
             ]
         )
@@ -359,8 +359,8 @@ async def filter_yearss_cb_handler(client: Client, query: CallbackQuery):
         ]
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/BerozgarYuva1"),
-                InlineKeyboardButton(f"AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton(f'AdultPlayX', url=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton(f"AᴋMᴏᴠɪᴇververse", url=f"https://t.me/akmoviverse"),
                 InlineKeyboardButton(f"Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
         )
@@ -373,8 +373,8 @@ async def filter_yearss_cb_handler(client: Client, query: CallbackQuery):
         btn = []
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/BerozgarYuva1"),
-                InlineKeyboardButton(f"AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton(f'AdultPlayX', url=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton(f"AᴋMᴏᴠɪᴇverse", url=f"https://t.me/akmovieverse"),
                 InlineKeyboardButton(f"Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
         )
@@ -525,8 +525,8 @@ async def filter_episodes_cb_handler(client: Client, query: CallbackQuery):
         ]
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/BerozgarYuva1"),
-                InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton(f'AdultPlayX', url=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton("AᴋMᴏᴠɪᴇverse", url=f"https://t.me/akmovieverse"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
         )
@@ -539,8 +539,8 @@ async def filter_episodes_cb_handler(client: Client, query: CallbackQuery):
         btn = []
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/BerozgarYuva1"),
-                InlineKeyboardButton(f"AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton(f'AdultPlayX', url=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton(f"AᴋMᴏᴠɪᴇsverse", url=f"https://t.me/akmovieverse"),
                 InlineKeyboardButton(f"Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
         )
@@ -693,8 +693,8 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
         ]
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/BerozgarYuva1"),
-                InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton(f'AdultPlayX', url=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton("AᴋMᴏᴠɪᴇverse", url=f"https://t.me/AkMovieVerse"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
         )
@@ -707,8 +707,8 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
         btn = []
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/BerozgarYuva1"),
-                InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton(f'AdultplayX', url=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton("AᴋMᴏᴠɪᴇverse", url=f"https://t.me/akmovieverse"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
         )
@@ -890,8 +890,8 @@ async def filter_seasons_cb_handler(client: Client, query: CallbackQuery):
         ]
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/BerozgarYuva1"),
-                InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton(f'AdultplayX', url=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton("AᴋMᴏᴠɪᴇverse", url=f"https://t.me/akmovieverse"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
         )#
@@ -904,8 +904,8 @@ async def filter_seasons_cb_handler(client: Client, query: CallbackQuery):
         btn = []
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/BerozgarYuva1"),
-                InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton(f'AdultplayX', url=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton("AᴋMᴏᴠɪᴇverse", url=f"https://t.me/akmovieverse"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
         )#
@@ -1028,8 +1028,8 @@ async def filter_qualities_cb_handler(client: Client, query: CallbackQuery):
         ]
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/BerozgarYuva1"),
-                InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton(f'AdultplayX', url=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton("AᴋMᴏᴠɪᴇverse", url=f"https://t.me/akmovieverse"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
         )
@@ -1042,8 +1042,8 @@ async def filter_qualities_cb_handler(client: Client, query: CallbackQuery):
         btn = []
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/BerozgarYuva1"),
-                InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieverse"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
         )
@@ -2606,8 +2606,8 @@ async def auto_filter(client, name, msg, reply_msg, ai_search, spoll=False):
         ]
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/BerozgarYuva1"),
-                InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieverse"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
         )
@@ -2620,8 +2620,8 @@ async def auto_filter(client, name, msg, reply_msg, ai_search, spoll=False):
         btn = []
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/BerozgarYuva1"),
-                InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieshubbackup"),
+                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieverse"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
         )
@@ -3286,5 +3286,6 @@ async def global_filters(client, message, text=False):
                 break
     else:
         return False
+
 
 
