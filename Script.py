@@ -240,7 +240,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b><a href="https://t.me/AkMoviesHubX">{file_name}</a>\n\n ⚜️ 𝖩𝗈𝗂𝗇 ➥ 「<a href="https://t.me/AkMoviesVerse"> 𝑨𝒌𝑴𝒐𝒗𝒊𝒆𝒔𝑯𝒖𝒃X</a>」</b>
+    CAPTION = """<b><a href="https://t.me/PurelySin">{file_name}</a>\n\n ⚜️ 𝖩𝗈𝗂𝗇 ➥ 「<a href="https://t.me/PurelySin"> PurelySin</a>」</b>
 <b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
 
     IMDB_TEMPLATE_TXT = """
@@ -747,5 +747,6 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
 
 
