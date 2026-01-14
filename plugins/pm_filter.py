@@ -130,7 +130,7 @@ async def next_page(bot, query):
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
-            InlineKeyboardButton("Backup", url=f"https://t.me/PurlySinX")
+            InlineKeyboardButton("Backup", url=f"https://t.me/PurelySinX")
         ])
     else:
         btn = []
@@ -547,7 +547,7 @@ async def filter_episodes_cb_handler(client: Client, query: CallbackQuery):
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
-            InlineKeyboardButton("Backup", url=f"https://t.me/purlysinx")
+            InlineKeyboardButton("Backup", url=f"https://t.me/PurelySinX")
         ])
 
     if offset != "":
@@ -701,7 +701,7 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
-            InlineKeyboardButton("Backup", url=f"https://t.me/purlysinx")
+            InlineKeyboardButton("Backup", url=f"https://t.me/PurelySinX")
         ])
     else:
         btn = []
@@ -1050,7 +1050,7 @@ async def filter_qualities_cb_handler(client: Client, query: CallbackQuery):
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
-            InlineKeyboardButton("Backup", url=f"https://t.me/purlysinx")
+            InlineKeyboardButton("Backup", url=f"https://t.me/PurelySinX")
         ])
 
     if offset != "":
@@ -1957,7 +1957,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "about":
         buttons = [[
             InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-            InlineKeyboardButton('Sᴏᴜʀᴄᴇ Cᴏᴅᴇ', url="https://t.me/Akmoviebotz")
+            InlineKeyboardButton('Sᴏᴜʀᴄᴇ Cᴏᴅᴇ', url="https://t.me/AkmovieVerse")
         ],[
             InlineKeyboardButton('Hᴏᴍᴇ', callback_data='start'),
             InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close_data')
@@ -3286,6 +3286,7 @@ async def global_filters(client, message, text=False):
                 break
     else:
         return False
+
 
 
 
