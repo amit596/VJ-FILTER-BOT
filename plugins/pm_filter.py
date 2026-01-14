@@ -122,7 +122,7 @@ async def next_page(bot, query):
 
         btn.insert(0, 
             [
-                InlineKeyboardButton('AdultPlayX', url=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton('Desi Videos', url=f"https://t.me/DesiSinbot"),
                 InlineKeyboardButton("AᴋMᴏᴠɪᴇverse", url=f"https://t.me/AkMovieVerse"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -130,13 +130,13 @@ async def next_page(bot, query):
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
-            InlineKeyboardButton("Bᴏᴛs", url=f"https://t.me/akmoviebotz")
+            InlineKeyboardButton("Backup", url=f"https://t.me/PurlySinX")
         ])
     else:
         btn = []
         btn.insert(0, 
             [
-                InlineKeyboardButton('AdultPlayX', callback_data=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton('Desi Videos', callback_data=f"https://t.me/DesiSinBot"),
                 InlineKeyboardButton("AᴋMᴏᴠɪᴇverse", callback_data=f"https://t.me/akmovieverse"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  callback_data=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -144,7 +144,7 @@ async def next_page(bot, query):
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
-            InlineKeyboardButton("Bᴏᴛs", url=f"https://t.me/akmoviebotz")
+            InlineKeyboardButton("Backup", url=f"https://t.me/Purelysinx")
         ])
     try:
         if settings['max_btn']:
@@ -359,7 +359,7 @@ async def filter_yearss_cb_handler(client: Client, query: CallbackQuery):
         ]
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'AdultPlayX', url=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton(f'Desi Videos', url=f"https://t.me/DesiSinBot"),
                 InlineKeyboardButton(f"AᴋMᴏᴠɪᴇververse", url=f"https://t.me/akmoviverse"),
                 InlineKeyboardButton(f"Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -367,13 +367,13 @@ async def filter_yearss_cb_handler(client: Client, query: CallbackQuery):
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
-            InlineKeyboardButton("Bᴏᴛs", url=f"https://t.me/akmoviebotz")
+            InlineKeyboardButton("Backup", url=f"https://t.me/purelysinx")
         ])
     else:
         btn = []
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'AdultPlayX', url=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton(f'Desi Videos', url=f"https://t.me/DesiSinbot"),
                 InlineKeyboardButton(f"AᴋMᴏᴠɪᴇverse", url=f"https://t.me/akmovieverse"),
                 InlineKeyboardButton(f"Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -381,7 +381,7 @@ async def filter_yearss_cb_handler(client: Client, query: CallbackQuery):
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
-            InlineKeyboardButton("Bᴏᴛs", url=f"https://t.me/akmoviebotz")
+            InlineKeyboardButton("Backup", url=f"https://t.me/purelysinx")
         ])
 
     if offset != "":
@@ -525,7 +525,7 @@ async def filter_episodes_cb_handler(client: Client, query: CallbackQuery):
         ]
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'AdultPlayX', url=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton(f'Desi Videos', url=f"https://t.me/DesiSinBot"),
                 InlineKeyboardButton("AᴋMᴏᴠɪᴇverse", url=f"https://t.me/akmovieverse"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -533,13 +533,13 @@ async def filter_episodes_cb_handler(client: Client, query: CallbackQuery):
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
-            InlineKeyboardButton("Bᴏᴛs", url=f"https://t.me/akmoviebotz")
+            InlineKeyboardButton("Backup", url=f"https://t.me/purelysinx")
         ])
     else:
         btn = []
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'AdultPlayX', url=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton(f'Desi Videos', url=f"https://t.me/DesiSinbot"),
                 InlineKeyboardButton(f"AᴋMᴏᴠɪᴇsverse", url=f"https://t.me/akmovieverse"),
                 InlineKeyboardButton(f"Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -547,7 +547,7 @@ async def filter_episodes_cb_handler(client: Client, query: CallbackQuery):
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
-            InlineKeyboardButton("Bᴏᴛs", url=f"https://t.me/akmoviebotz")
+            InlineKeyboardButton("Backup", url=f"https://t.me/purlysinx")
         ])
 
     if offset != "":
@@ -693,7 +693,7 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
         ]
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'AdultPlayX', url=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton(f'Desi Videos', url=f"https://t.me/DesiSinBot"),
                 InlineKeyboardButton("AᴋMᴏᴠɪᴇverse", url=f"https://t.me/AkMovieVerse"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -701,13 +701,13 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
-            InlineKeyboardButton("Bᴏᴛs", url=f"https://t.me/akmoviebotz")
+            InlineKeyboardButton("Backup", url=f"https://t.me/purlysinx")
         ])
     else:
         btn = []
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'AdultplayX', url=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton(f'Desi Videos', url=f"https://t.me/DesiSinbot"),
                 InlineKeyboardButton("AᴋMᴏᴠɪᴇverse", url=f"https://t.me/akmovieverse"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -715,7 +715,7 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
-            InlineKeyboardButton("Bᴏᴛs", url=f"https://t.me/akmoviebotz")
+            InlineKeyboardButton("Backup", url=f"https://t.me/purelysinx")
         ])
 
     if offset != "":
@@ -890,7 +890,7 @@ async def filter_seasons_cb_handler(client: Client, query: CallbackQuery):
         ]
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'AdultplayX', url=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton(f'Desi Video', url=f"https://t.me/DesiSinbot"),
                 InlineKeyboardButton("AᴋMᴏᴠɪᴇverse", url=f"https://t.me/akmovieverse"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -898,13 +898,13 @@ async def filter_seasons_cb_handler(client: Client, query: CallbackQuery):
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
-            InlineKeyboardButton("Bᴏᴛs", url=f"https://t.me/akmoviebotz")
+            InlineKeyboardButton("Backup", url=f"https://t.me/purelysinx")
         ])
     else:
         btn = []
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'AdultplayX', url=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton(f'Desi Video', url=f"https://t.me/DesiSinbot"),
                 InlineKeyboardButton("AᴋMᴏᴠɪᴇverse", url=f"https://t.me/akmovieverse"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -912,7 +912,7 @@ async def filter_seasons_cb_handler(client: Client, query: CallbackQuery):
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
-            InlineKeyboardButton("Bᴏᴛs", url=f"https://t.me/akmoviebotz")
+            InlineKeyboardButton("Backup", url=f"https://t.me/purelysinx")
         ])
     if lang != "homepage":
         req = query.from_user.id
@@ -1028,7 +1028,7 @@ async def filter_qualities_cb_handler(client: Client, query: CallbackQuery):
         ]
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'AdultplayX', url=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton(f'Desi Videos', url=f"https://t.me/DesiSinbot"),
                 InlineKeyboardButton("AᴋMᴏᴠɪᴇverse", url=f"https://t.me/akmovieverse"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -1036,13 +1036,13 @@ async def filter_qualities_cb_handler(client: Client, query: CallbackQuery):
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
-            InlineKeyboardButton("Bᴏᴛs", url=f"https://t.me/akmoviebotz")
+            InlineKeyboardButton("Backup", url=f"https://t.me/PurelySinX")
         ])
     else:
         btn = []
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton(f'Desi Videos', url=f"https://t.me/DesiSinBot"),
                 InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieverse"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -1050,7 +1050,7 @@ async def filter_qualities_cb_handler(client: Client, query: CallbackQuery):
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
-            InlineKeyboardButton("Bᴏᴛs", url=f"https://t.me/akmoviebotz")
+            InlineKeyboardButton("Backup", url=f"https://t.me/purlysinx")
         ])
 
     if offset != "":
@@ -2220,7 +2220,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "tele":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="help"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/nullzoro")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/PurelySinVIPBot")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -2261,7 +2261,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "share":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="help"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/nullzoro")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/PurelySinVIPBot")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -2277,7 +2277,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "song":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="help"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/nullzoro")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/PurelySinVIPBot")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -2318,7 +2318,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "sticker":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="help"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/nullzoro")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/PurelySinVIPBot")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -2334,7 +2334,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "tamil_info":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/nullzoro")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/PurelySinVIPBot")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -2350,7 +2350,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "english_info":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/nullzoro")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/PurelySinVIPBot")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -2366,7 +2366,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "hindi_info":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/nullzoro")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/PurelySinVIPBot")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -2382,7 +2382,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "telugu_info":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/nullzoro")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/PurelySinVIPBot")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -2398,7 +2398,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "malayalam_info":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/nullzoro")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/PurelySinVIPBot")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -2414,7 +2414,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "urdu_info":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/nullzoro")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/PurelySinVIPBot")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -2430,7 +2430,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "bangladesh_info":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/nullzoro")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/PurelySinVIPBot")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -2446,7 +2446,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "kannada_info":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/nullzoro")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/PurelySinVIPBot")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -2462,7 +2462,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "gujarati_info":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/nullzoro")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/PurelySinVIPBot")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -2606,7 +2606,7 @@ async def auto_filter(client, name, msg, reply_msg, ai_search, spoll=False):
         ]
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton(f'Desi Videos', url=f"https://t.me/DesiSinbot"),
                 InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieverse"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -2614,13 +2614,13 @@ async def auto_filter(client, name, msg, reply_msg, ai_search, spoll=False):
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
-            InlineKeyboardButton("Bᴏᴛs", url=f"https://t.me/akmoviebotz")
+            InlineKeyboardButton("Backup", url=f"https://t.me/purelysinx")
         ])
     else:
         btn = []
         btn.insert(0, 
             [
-                InlineKeyboardButton(f'Gᴀɴᴅɪᴄʜᴇᴇᴢ', url=f"https://t.me/AdultPlayxBot"),
+                InlineKeyboardButton(f'Desi Videos', url=f"https://t.me/DesiSinbot"),
                 InlineKeyboardButton("AᴋMᴏᴠɪᴇsHᴜʙBᴀᴄᴋᴜᴘ", url=f"https://t.me/akmovieverse"),
                 InlineKeyboardButton("Hᴇɴᴛᴀɪ",  url=f"https://t.me/+goqkqMMqob44YzBl")
             ]
@@ -2628,7 +2628,7 @@ async def auto_filter(client, name, msg, reply_msg, ai_search, spoll=False):
         btn.insert(0, [
             InlineKeyboardButton("𝐒𝐞𝐧𝐝 𝐀𝐥𝐥", callback_data=f"sendfiles#{key}"),
             InlineKeyboardButton("Mᴏᴠɪᴇs", url=f"https://t.me/aksearch"),
-            InlineKeyboardButton("Bᴏᴛs", url=f"https://t.me/akmoviebotz")
+            InlineKeyboardButton("Backup", url=f"https://t.me/purelysinx")
         ])
     if offset != "":
         try:
@@ -3286,6 +3286,7 @@ async def global_filters(client, message, text=False):
                 break
     else:
         return False
+
 
 
 
